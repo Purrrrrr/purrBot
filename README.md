@@ -3,7 +3,8 @@
 ## Running
 
 1. install flask and requests
-2. python bot.py
+2. Change the right server details in app.py
+3. Run python app.py
 
 ## Starting the game
 
